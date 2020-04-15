@@ -1,0 +1,7 @@
+c:\users\echo romeo\source\repos\genericList\genericList\bin\Debug\genericList.exe.config
+c:\users\echo romeo\source\repos\genericList\genericList\bin\Debug\genericList.exe
+c:\users\echo romeo\source\repos\genericList\genericList\bin\Debug\genericList.pdb
+c:\users\echo romeo\source\repos\genericList\genericList\obj\Debug\genericList.csprojResolveAssemblyReference.cache
+c:\users\echo romeo\source\repos\genericList\genericList\obj\Debug\genericList.csproj.CoreCompileInputs.cache
+c:\users\echo romeo\source\repos\genericList\genericList\obj\Debug\genericList.exe
+c:\users\echo romeo\source\repos\genericList\genericList\obj\Debug\genericList.pdb

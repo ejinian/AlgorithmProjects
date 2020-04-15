@@ -1,0 +1,22 @@
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.deps.json
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.json
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.dev.json
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.pdb
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfo.cs
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\Echo Romeo\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.pdb
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.deps.json
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.json
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.dev.json
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.pdb
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfo.cs
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\Echo Romeo\source\Algorithm Projects\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.pdb

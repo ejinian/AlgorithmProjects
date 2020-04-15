@@ -1,0 +1,7 @@
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\bin\Debug\arraystuff.exe.config
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\bin\Debug\arraystuff.exe
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\bin\Debug\arraystuff.pdb
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\obj\Debug\arraystuff.csprojResolveAssemblyReference.cache
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\obj\Debug\arraystuff.csproj.CoreCompileInputs.cache
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\obj\Debug\arraystuff.exe
+c:\users\echo romeo\source\repos\arraystuff\arraystuff\obj\Debug\arraystuff.pdb

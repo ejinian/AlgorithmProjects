@@ -1,0 +1,11 @@
+C:\Users\Echo Romeo\source\repos\probability\probability\bin\Debug\netcoreapp2.0\probability.deps.json
+C:\Users\Echo Romeo\source\repos\probability\probability\bin\Debug\netcoreapp2.0\probability.runtimeconfig.json
+C:\Users\Echo Romeo\source\repos\probability\probability\bin\Debug\netcoreapp2.0\probability.runtimeconfig.dev.json
+C:\Users\Echo Romeo\source\repos\probability\probability\bin\Debug\netcoreapp2.0\probability.dll
+C:\Users\Echo Romeo\source\repos\probability\probability\bin\Debug\netcoreapp2.0\probability.pdb
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.csprojResolveAssemblyReference.cache
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.csproj.CoreCompileInputs.cache
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.AssemblyInfoInputs.cache
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.AssemblyInfo.cs
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.dll
+C:\Users\Echo Romeo\source\repos\probability\probability\obj\Debug\netcoreapp2.0\probability.pdb
